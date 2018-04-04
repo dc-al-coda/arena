@@ -1,0 +1,46 @@
+{
+    "bridges":[
+        {
+            "key" : "cave_bridge",
+            "startx" : 200,
+            "starty" : 300,
+            "upAtStart" : false,
+            "maxBound" : 0,
+            "minBound" : -90,
+            "direction" : false, 
+            "switch" : {
+                "key" : "switch",
+                "startx" : 50,
+                "starty" : 485
+            }
+        },
+        {
+            "key" : "bridge_to_town",
+            "startx" : 461,
+            "starty" : 522,
+            "upAtStart" : false,
+            "maxBound" : 90,
+            "minBound" : 0,
+            "direction" : true, 
+            "switch" : {
+                "key" : "switch",
+                "startx" : 150,
+                "starty" : 485
+            }
+        },
+        {
+            "key" : "main_entrance",
+            "startx" : 420,
+            "starty" : 175,
+            "upAtStart" : false,
+            "maxBound" : 45,
+            "minBound" : -45,
+            "direction" : true, 
+            "switch" : {
+                "key" : "switch",
+                "startx" : 250,
+                "starty" : 485
+            }
+        }
+    ]
+}

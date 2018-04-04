@@ -1,0 +1,19 @@
+{
+    "switches":[
+        {
+            "key" : "switch",
+            "startx" : 50,
+            "starty" : 485
+        },
+        {
+            "key" : "switch",
+            "startx" : 150,
+            "starty" : 485
+        },
+        {
+            "key" : "switch",
+            "startx" : 250,
+            "starty" : 485
+        }
+    ]
+}
